@@ -1,21 +1,21 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Weightless"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: BitSlit
 categories:
-- project
+- Logo design
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-tagged: Flat, UI, Development
+tagged: Branding, Logo
 client: Wonder Corp.
-website: http://blacktie.co
+website: http://insightmindbody.com/
 ---
-####YOUR PROJECT NAME
+####Weightless
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 ####Our Proposal
