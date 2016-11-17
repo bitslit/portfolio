@@ -9,9 +9,9 @@
         <span class="icon-bar"></span>
       </button>
       
-      <a id="logo" href="{{ "/portfolio/assets/bitslit.png"  | prepend: site.baseurl }}">
-      </a>
-    </div>
+      <div id="logo">
+        <a class="navbar-brand" src="/portfolio/assets/bitslit.png" href="{{ "/"  | prepend: site.baseurl }}"></a>
+      </div>       
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
