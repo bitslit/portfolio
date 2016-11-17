@@ -11,9 +11,10 @@
       <a class="navbar-brand" href="{{ "/"  | prepend: site.baseurl }}"></a>
       <div id="head">
           <div class="header">
-            <img class="logo" src="/portfolio/assets/bitslit.png" width="100" height="27" alt=""/>    </div>
+            <img class="logo" src="/portfolio/assets/bitslit.png" width="100" height="27" alt=""/>
         </div>
-    <div class="navbar-collapse collapse navbar-right">
+      </div>
+      <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
         <li {% if page.title == "Portfolio" %}class="active"{% endif %}><a href="{{"/portfolio/" | prepend: site.baseurl }}">PORTFOLIO</a></li>
