@@ -25,7 +25,7 @@ body {
 	background: #3D2B61; 
 	margin: 0; 
 	height: 100%; 
-	color: {{ #ffffff }};
+	color: {{ #3d2b61 }};
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	}
