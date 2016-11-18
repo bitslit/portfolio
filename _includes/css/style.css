@@ -232,6 +232,8 @@ a:focus {
 	background-size: cover;
 	background-repeat: no-repeat;
 	text-align: center;
+	padding-bottom:380px;
+	padding-top:450px;
 	position:relative;
 }
 
