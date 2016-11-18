@@ -231,14 +231,15 @@ a:focus {
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
+	padding-top: 390px;
+	padding-bottom: 400px;
 	text-align: center;
 }
 
 #headerwrap-back {
 	background-color: #FFFFFF;
     background-color: rgba(255,255,255,0.80);
-    position: absolute;
-	background-size: cover;
+    position: relative;
     top: 0;
     left: 0;
 	max-width: 100%;
@@ -247,8 +248,6 @@ a:focus {
 #headerwrap h1, h3, {
 	color: {{ site.colors.footer_heading }};
 	font-weight: 400;
-	padding-top: 390px;
-	padding-bottom: 400px;
 }
 
 
