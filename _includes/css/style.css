@@ -216,14 +216,14 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
+	background-color: {{ site.colors.secondary }};
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
 	text-align: center;
 }
 
-#headerwrap h3, h5 {
+#headerwrap h1, h2, h3, h4, h5, h6 {
 	color: white;
 	font-weight: 400;
 }
