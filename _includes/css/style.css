@@ -241,10 +241,9 @@ a:focus {
     background-color: rgba(255,255,255,0.80);
     position: absolute;
     top: 0;
-	background-attachment: fixed;
     left: 0;
 	width: 100%;
-	height: auto;
+	height: 110%;
 }
 
 #headerwrap h1, h3, {
