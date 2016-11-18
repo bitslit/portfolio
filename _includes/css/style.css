@@ -243,6 +243,7 @@ a:focus {
 	background-size: cover;
     top: 0;
     left: 0;
+	max-width: 100%;
 }
 
 #headerwrap h1, h3, {
