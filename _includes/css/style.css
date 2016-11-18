@@ -385,8 +385,7 @@ a:focus {
 
 #aboutwrap {
 	background-color: {{ site.colors.primary }};
-    background-color:rgba({{ site.colors.primary_rgb }},.8);
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     width: 100%;
