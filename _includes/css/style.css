@@ -231,7 +231,7 @@ a:focus {
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
-	text-align: center;
+	align-content:center;
 }
 
 #headerwrap-back {
