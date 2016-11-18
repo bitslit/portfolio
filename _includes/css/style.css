@@ -244,7 +244,7 @@ a:focus {
 }
 
 #service h3, h4, h5 {
-	color: rgb (61,43,97);
+	{{ site.colors.secondary }};
 	font-weight: 400
 }
 	
