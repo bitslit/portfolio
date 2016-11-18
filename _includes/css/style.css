@@ -384,9 +384,13 @@ a:focus {
 /* aboutwrap */
 
 #aboutwrap {
-	background-color: #E5E2E2
-	position: absolute;
-	width: 100%;
+	background-color: {{ site.colors.primary }};
+    background-color:rgba({{ site.colors.primary_rgb }},.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 	
 
