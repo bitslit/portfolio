@@ -226,8 +226,8 @@ a:focus {
 
 #hwrap {
 	background: url(../img/headwrap.jpg);
-	max-width: 100%;
-	height: auto;
+	max-width: auto;
+	max-height: 1000px;
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -237,13 +237,13 @@ a:focus {
 }
 
 #hoverlay {
-	background-color: #FFFFFF;
-    background-color: rgba(255,255,255,0.80);
+    background-color: {{ site.colors.footer_heading }};
+    background-color:rgba({{ site.colors.footer_heading_rgb }},.8);
     position: absolute;
     top: 0;
     left: 0;
-	max-width: 100%;
-	height: 100%;
+    width: 100%;
+    height: 100%;
 }
 
 #headerwrap h1, h3, {
