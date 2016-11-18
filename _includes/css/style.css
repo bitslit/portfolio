@@ -244,7 +244,7 @@ a:focus {
 	background-attachment: fixed;
     left: 0;
 	width: 100%;
-	height: 110%;
+	height: auto;
 }
 
 #headerwrap h1, h3, {
