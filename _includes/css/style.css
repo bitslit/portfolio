@@ -110,6 +110,7 @@ a:focus {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
 	padding-bottom: 20px;
+	padding-left: 40px;
 }
 
 .navbar-header .navbar-brand {
@@ -402,7 +403,7 @@ a:focus {
 }
 
 #footerwrap p {
-	color: rgba {{ site.colors.footer_content_rgb }} ,.5;
+	color: {{ site.colors.footer_content }};
 }
 
 #footerwrap h6 {
