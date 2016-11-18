@@ -403,11 +403,11 @@ a:focus {
 }
 
 #footerwrap p {
-	color: {{ site.colors.footer_content }};
+	color: {{ site.colors.footer_content_rgb }},.5);
 }
 
 #footerwrap h6 {
-	color: {{ site.colors.footer_heading }};
+	color: {{ site.colors.footer_heading_rgb }},.5);
 	padding-top: 15px;
 	padding-bottom: 15px;
 	padding-right: 20px;
@@ -416,7 +416,7 @@ a:focus {
 
 #footerwrap i {
 	font-size: 25px;
-	color: {{ site.colors.footer_content }};
+	color: {{ site.colors.footer_content_rgb }},.5);
 	padding-top: 15px;
 	padding-bottom: 20px;
 	padding-right: 20px;
