@@ -224,12 +224,11 @@ a:focus {
 	max-width: 100%;
     	height: auto;
 	background-attachment: fixed;
-	background size: cover;
+	background-size: cover;
 	background-repeat: no-repeat;
 	padding-top: 390px;
 	padding-bottom: 400px;
 	text-align: center;
-	position: fixed;
 }
 
 #headerwrap h1, h3, {
