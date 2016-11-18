@@ -232,6 +232,9 @@ a:focus {
 	text-align: center;
 }
 
+#headerwrap-back {
+	background-color: rgbargba(255,255,255,0.8)
+
 #headerwrap h1, h3, {
 	color: {{ site.colors.footer_heading }};
 	font-weight: 400;
