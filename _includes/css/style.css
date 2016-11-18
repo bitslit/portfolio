@@ -230,7 +230,7 @@ a:focus {
 	text-align: center;
 }
 
-#headerwrap h2, h3, h4, h5, h6 {
+#headerwrap h2, h3, h4, {
 	color: white;
 	font-weight: 400;
 }
