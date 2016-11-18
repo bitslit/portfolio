@@ -231,8 +231,6 @@ a:focus {
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding-top: 390px;
-	padding-bottom: 400px;
 	text-align: center;
 }
 
@@ -249,6 +247,8 @@ a:focus {
 #headerwrap h1, h3, {
 	color: {{ site.colors.footer_heading }};
 	font-weight: 400;
+	padding-top: 390px;
+	padding-bottom: 400px;
 }
 
 
