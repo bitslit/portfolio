@@ -378,12 +378,16 @@ a:focus {
 
 #footerwrap h6 {
 	color: {{ site.colors.footer_heading }};
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 20px;
 	
 }
 
 #footerwrap i {
 	font-size: 25px;
 	color: {{ site.colors.footer_content }};
+	padding-top: 15px;
 	padding-bottom: 15px;
 	padding-right: 20px;
 }
