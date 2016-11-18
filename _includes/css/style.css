@@ -349,6 +349,10 @@ a:focus {
 	line-height: 30px;
 }
 
+#twrap h4 {
+	color: white;
+}
+
 /* clients logo */
 #cwrap {
 	background: #f7f7f7;
