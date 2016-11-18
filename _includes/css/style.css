@@ -384,7 +384,7 @@ a:focus {
 /* aboutwrap */
 
 #aboutwrap {
-	background-color: {{ site.colors.primary }};
+	background-color: #ECECEC;
     position: relative;
     top: 0;
     left: 0;
