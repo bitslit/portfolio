@@ -372,9 +372,8 @@ a:focus {
 	color: {{ site.colors.footer_content }};
 }
 
-#footerwrap h6 {
+#footerwrap h5 {
 	color: {{ site.colors.footer_heading }};
-	font-weight: 200px;
 	
 }
 
