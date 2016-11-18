@@ -380,6 +380,14 @@ a:focus {
 	margin-bottom: 60px;
 }
 
+
+/* aboutwrap */
+
+#aboutwrap {
+	background-color: #E5E2E2
+}
+	
+
 /* Footer */
 #footerwrap {
 	padding-top: 30px;
