@@ -223,7 +223,7 @@ a:focus {
 	text-align: center;
 }
 
-#headerwrap h1, h2, h3, h4, h5, h6 {
+#headerwrap h2, h3, h4, h5, h6 {
 	color: white;
 	font-weight: 400;
 }
@@ -243,6 +243,11 @@ a:focus {
 	margin-bottom: 0px;
 }
 
+#service h1, h2, h3, h4, h5, h6 {
+	color: white;
+	font-weight: 400
+}
+	
 #service i {
 	color: {{ site.colors.primary }};
 	font-size: 60px;
