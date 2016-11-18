@@ -402,7 +402,7 @@ a:focus {
 }
 
 #footerwrap p {
-	color: {{ site.colors.footer_content }};
+	color: rgba {{ site.colors.footer_content_rgb }} ,.5;
 }
 
 #footerwrap h6 {
