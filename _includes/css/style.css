@@ -378,7 +378,7 @@ a:focus {
 
 #footerwrap h6 {
 	color: {{ site.colors.footer_heading }};
-	font-weight: 400px;
+	font-weight: 200px;
 	
 }
 
