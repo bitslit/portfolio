@@ -376,7 +376,7 @@ a:focus {
 	color: {{ site.colors.footer_content }};
 }
 
-#footerwrap h5 {
+#footerwrap h6 {
 	color: {{ site.colors.footer_heading }};
 }
 
