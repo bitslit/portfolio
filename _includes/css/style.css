@@ -231,7 +231,7 @@ a:focus {
 }
 
 #headerwrap h1, h3, {
-	color: white;
+	color: {{ site.colors.footer_heading }};
 	font-weight: 400;
 }
 
