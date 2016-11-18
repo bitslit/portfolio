@@ -224,7 +224,7 @@ a:focus {
 	SITE WRAPS
 ################################################################# */
 
-#headerwrap {
+#hwrap {
 	background: url(../img/headwrap.jpg);
 	max-width: 100%;
 	height: auto;
@@ -236,7 +236,7 @@ a:focus {
 	text-align: center;
 }
 
-#headerwrap-back {
+#hoverlay {
 	background-color: #FFFFFF;
     background-color: rgba(255,255,255,0.80);
     position: absolute;
@@ -319,7 +319,7 @@ a:focus {
 }
 
 /* Testimonials Wrap */
-#twrapback {
+#toverlay {
     background-color: {{ site.colors.primary }};
     background-color:rgba({{ site.colors.primary_rgb }},.8);
     position: absolute;
