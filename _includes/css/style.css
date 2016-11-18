@@ -16,6 +16,18 @@
 /*	################################################################
 	1. GENERAL STRUCTURES
 ################################################################# */
+@font-face {
+    font-family: 'Open-sans';
+    src:url('portfolio/assets/fonts/opensans/OpenSans-Regular.ttf'), format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+	
+	
+	
+	
+	
+	
 	* { 
 		margin: 0;
 		padding: 0px;
@@ -31,7 +43,7 @@ body {
 	}
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Open-sans', sans-serif;
 	font-weight: 700;
 }
 
