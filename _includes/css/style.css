@@ -217,6 +217,7 @@ a:focus {
 
 #headerwrap {
 	background: url(../img/headerwrap.jpg) no-repeat center top;
+	background size: fixed;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -244,7 +245,7 @@ a:focus {
 }
 
 #service h1, h2, h3, h4, h5, h6 {
-	color: white;
+	color: {{ site.colors.secondary }};
 	font-weight: 400
 }
 	
