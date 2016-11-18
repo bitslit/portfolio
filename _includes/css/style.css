@@ -384,6 +384,7 @@ a:focus {
 #footerwrap i {
 	font-size: 20px;
 	color: {{ site.colors.footer_content }};
+	padding-bottom: 10px;
 }
 
 #footerwrap i:hover {
