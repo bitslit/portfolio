@@ -227,6 +227,7 @@ a:focus {
 #headerwrap {
 	background: url(../img/headwrap.jpg);
 	max-width: 100%;
+    height: auto;
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
