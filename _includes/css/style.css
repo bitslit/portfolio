@@ -247,8 +247,8 @@ a:focus {
 	padding-bottom: 50px;
 }
 
-#service h1, h2, h3, h4, h5, h6 {
-	color: {{ #3d2b61 }};
+#service h3, h4, h5 {
+	color: rgb (61,43,97);
 	font-weight: 400
 }
 	
