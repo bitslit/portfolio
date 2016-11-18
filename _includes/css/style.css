@@ -102,7 +102,7 @@ a:focus {
 	margin-bottom: 0px;
 }
 
-#logo {
+.logo {
 	padding-top: 10px;
 }
 
@@ -227,7 +227,7 @@ a:focus {
 #headerwrap {
 	background: url(../img/headwrap.jpg);
 	max-width: 100%;
-    	height: auto;
+    height: auto;
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
