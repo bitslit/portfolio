@@ -225,12 +225,12 @@ a:focus {
 	background-attachment: fixed;
 	background size: cover;
 	background-repeat: no-repeat;
-	padding-top: 300px;
-	padding-bottom: 300px;
+	padding-top: 310px;
+	padding-bottom: 350px;
 	text-align: center;
 }
 
-#headerwrap h2, h3, h4, {
+#headerwrap h2, {
 	color: rgb(255,255,255);
 	font-weight: 400;
 }
