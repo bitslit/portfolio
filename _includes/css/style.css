@@ -430,7 +430,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: {{ site.colors.primary }};
+	background: #ff2859;
 	margin-bottom: 60px;
 	padding-top: 95px;
 	padding-bottom: 25px;
