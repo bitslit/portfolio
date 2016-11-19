@@ -151,7 +151,7 @@ a:focus {
 
 .btn-theme {
   color: #fff;
-  background-color: {{ site.colors.secondary }};
+  background-color: #000000;
   border-color: {{ site.colors.secondary }};
   margin: 4px;
 }
