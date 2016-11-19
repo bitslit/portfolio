@@ -433,7 +433,7 @@ a:focus {
 	background: {{ site.colors.primary }};
 	margin-top: 60px;
 	margin-bottom: 60px;
-	padding-top: 25px;
+	padding-top: 100px;
 	padding-bottom: 25px;
 }
 
