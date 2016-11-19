@@ -439,9 +439,7 @@ a:focus {
 #coverlay {
 	background-color: {{ site.colors.primary }};
     background-color:rgba({{ site.colors.primary_rgb }},.8);
-    position: absolute;
-    top: 0;
-    left: 0;
+    position: relative;
     width: 100%;
     height: 100%;
 }
