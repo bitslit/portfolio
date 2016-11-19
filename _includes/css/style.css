@@ -103,6 +103,7 @@ a:focus {
 .logo {
 	padding-top: 10px;
 	text-align: center;
+	align-content:center;
 }
 
 .navbar-brand {
