@@ -272,7 +272,7 @@ a:focus {
 
 /* Portfolio Wrap */
 #portfoliowrap {
-	background-color: {{ site.colors.primary }};
+	background-color: #ff2859;
 	padding-top: 5px;
 	display: block;
 	text-align: center
