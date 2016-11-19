@@ -26,7 +26,7 @@ body {
 	margin: 0; 
 	height: 100%; 
 	color: {{ site.colors.secondary }};
-	font-family: 'Open+Sans', sans-serif;
+	font-family: Open+Sans;
 	font-weight: 400;
 	}
 
